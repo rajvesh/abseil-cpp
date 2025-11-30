@@ -1,0 +1,1 @@
+"""Visual SLAM module for pose estimation and 3D mapping."""
